@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="color_title">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="color_white">#FFFFFF</color>
+    <color name="color_00">#8A000000</color>
+    <color name="theme_body">#cc22292c</color>
+    <color name="color_line">#D9D9DD</color>
+    <color name="bg_default">#F2F2F2</color>
+    <color name="color_ababab">#ABABAB</color>
+
+    <color name="placeholder">#e1e4eb</color>
+    <color name="error">#ff9999</color>
+    <color name="text_color_default">#333333</color>
+    <color name="color_default">#ff83a8</color>
+    <color name="b2000000">#b2000000</color>
+    <color name="fcfcfc">#fcfcfc</color>
+    <color name="f00ff30">#00ff30</color>
+    <color name="f4c00ff30">#4c00ff30</color>
+    <color name="f4fbbff">#4fbbff</color>
+    <color name="a3a3a3">#a3a3a3</color>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="province_line_border">#D0D0D0</color>
+    <color name="yellow">#FFFF00</color>
+    <color name="abc995">#abc995</color>
+    <color name="d2d4d5">#d2d4d5</color>
+    <color name="f585858">#585858</color>
+    <color name="f7f7f7f">#7f7f7f</color>
+    <color name="black_p50">#7f000000</color>
+
+    <color name="ffffffff">#ffffffff</color>
+    <color name="f0f0f0">#f0f0f0</color>
+    <color name="f0099e1">#0099e1</color>
+    <color name="f01be21">#01be21</color>
+    <color name="f7f000000">#7f000000</color>
+    <color name="white_70">#70ffffff</color>
+    <color name="white_30">#30ffffff</color>
+    <color name="white_10">#10ffffff</color>
+    <color name="black_90">#90000000</color>
+    <color name="black_20">#20000000</color>
+    <color name="black_80">#80000000</color>
+    <color name="black_00">#00000000</color>
+    <color name="black_60">#60000000</color>
+    <color name="black_50">#50000000</color>
+    <color name="black_30">#30000000</color>
+    <color name="f636363">#636363</color>
+    <color name="f4bd963">#ff4bd963</color>
+    <color name="b8b8b8">#b8b8b8</color>
+    <color name="f7f9f8">#f7f9f8</color>
+    <color name="f6b6c6b">#6b6c6b</color>
+    <color name="e6333333">#e6333333</color>
+    <color name="color_181818">#181818</color>
+
+
+    <color name="bt_normal">#5ac65c</color>
+    <color name="bt_pressed">#48916c</color>
+    <color name="image_default_bg">#f1e8e0</color>
+    <color name="black">#000000</color>
+    <color name="light">#00000000</color>
+    <color name="white">#ffffff</color>
+    <color name="color_4cffffff">#4cffffff</color>
+    <color name="color_66ffffff">#66ffffff</color>
+    <color name="bt_wtite_shape">#7fffffff</color>
+    <color name="c4f0ca">#c4f0ca</color>
+    <color name="ccwhite">#ccffffff</color>
+    <color name="b2white">#b2ffffff</color>
+    <color name="a0white">#10ffffff</color>
+    <color name="color_main">#0dbdbb</color>
+    <color name="color_26cecece">#26cecece</color>
+    <color name="color_0aa3a0">#0aa3a0</color>
+    <color name="color_ffaf1a">#ffaf1a</color>
+    <color name="color_e3e3e3">#e3e3e3</color>
+    <color name="color_eae9e9">#eae9e9</color>
+    <color name="color_068f8d">#068f8d</color>
+    <color name="color_069290">#069290</color>
+    <color name="color_089f9d">#089f9d</color>
+    <color name="color_e1dfdf">#e1dfdf</color>
+    <color name="color_B0E0E6">#B0E0E6</color>
+    <color name="color_0ecdcd">#0ecdcd</color>
+    <color name="color_038988">#038988</color>
+    <color name="color_fdedf0">#fdedf0</color>
+    <color name="color_666666">#666666</color>
+    <color name="color_aaaaaa">#aaaaaa</color>
+    <color name="color_7a7a7a">#ff7a7a7a</color>
+    <color name="color_ef5088">#ef5088</color>
+    <color name="color_f7f1ec">#f7f1ec</color>
+    <color name="color_e60012">#e60012</color>
+    <color name="color_d2ccc5">#d2ccc5</color>
+    <color name="black_four_transparent">#8f000000</color>
+    <color name="black_four_blue_transparent">#6f0dbdbb</color>
+    <color name="color_330dbdbb">#330dbdbb</color>
+    <color name="color_list_line">#f1e8e0</color>
+    <color name="color_333333">#ff333333</color>
+    <color name="color_dialog_bt">#F4F4F4</color>
+    <color name="color_0098dd">#0098dd</color>
+    <color name="color_999999">#999999</color>
+    <color name="color_f1e8e0">#f1e8e0</color>
+    <color name="color_050dbdbb">#0f0dbdbb</color>
+    <color name="color_red">#db3320</color>
+    <color name="color_gray">#666666</color>
+    <color name="color_black">#222222</color>
+    <color name="color_f56050">#f56050</color>
+    <color name="color_66f56050">#66f56050</color>
+    <color name="color_fbf8f6">#fbf8f6</color>
+    <color name="color_0074a0">#0074a0</color>
+    <color name="color_0079ff">#0079ff</color>
+    <color name="color_56ae2e">#56ae2e</color>
+    <color name="color_0dbdbb">#0dbdbb</color>
+    <color name="color_67b245">#67b245</color>
+    <color name="color_0aa4e7">#0aa4e7</color>
+    <color name="color_50d2c2">#50d2c2</color>
+    <color name="color_ee6876">#ee6876</color>
+    <color name="color_eeeeee">#eeeeee</color>
+    <color name="color_00d446">#00d446</color>
+    <color name="color_00c4ff">#00c4ff</color>
+    <color name="color_15ce">#24cecece</color>
+    <color name="color_20ce">#44cecece</color>
+    <color name="color_ffcecece">#ffcecece</color>
+    <!-- <color name="color_blues">#2eb398</color> -->
+
+
+    <!-- 二维码 -->
+    <color name="result_view">#b0000000</color>
+    <color name="viewfinder_mask">#80000000</color>
+    <color name="possible_result_points">#c0ffff00</color>
+    <color name="bg_color">#EDEDED</color>
+    <color name="contents_text">#ff000000</color>
+    <color name="encode_view">#ffffffff</color>
+    <color name="help_button_view">#ffcccccc</color>
+    <color name="help_view">#ff404040</color>
+    <color name="result_image_border">#ffffffff</color>
+    <color name="result_minor_text">#ffc0c0c0</color>
+    <color name="result_points">#c000ff00</color>
+    <color name="result_text">#ffffffff</color>
+    <color name="sbc_header_text">#ff808080</color>
+    <color name="sbc_header_view">#ffffffff</color>
+    <color name="sbc_list_item">#fffff0e0</color>
+    <color name="sbc_layout_view">#ffffffff</color>
+    <color name="sbc_page_number_text">#ff000000</color>
+    <color name="sbc_snippet_text">#ff4b4b4b</color>
+    <color name="share_text">#ff000000</color>
+    <color name="share_view">#ffffffff</color>
+    <color name="status_view">#50000000</color>
+    <color name="status_text">#ffffffff</color>
+    <color name="viewfinder_frame">#ff000000</color>
+    <color name="viewfinder_laser">#ffff0000</color>
+    <color name="header">#58567D</color>
+    <color name="grgray">#686868</color>
+
+    <color name="GreyWhite_has_alpha">#66FAFAFA</color>
+    <color name="transparent">#00000000</color>
+    <color name="color_purple_bd6aff">#bd6aff</color>
+    <color name="action_bar_tittle_color_555555">#555555</color>
+    <color name="color_black_d9d9d9">#d9d9d9</color>
+
+
+    <!--<color name="ff1f1f1f">#1f1f1f</color>-->
+    <color name="ff111111">#ff111111</color>
+    <color name="ffdedede">#ffdedede</color>
+    <color name="ff292929">#ff292929</color>
+    <color name="f262626">#262626</color>
+    <color name="ff7a7a7a">#ff7a7a7a</color>
+    <color name="ff343434">#343434</color>
+    <color name="f13932b">#13932b</color>
+    <color name="fb5551">#fb5551</color>
+    <color name="ff90c42f">#ff90c42f</color>
+    <color name="ffa6a6a6">#ffa6a6a6</color>
+    <color name="ff0788a6">#ff0788a6</color>
+    <color name="ff1f1f1f">#ff1f1f1f</color>
+    <color name="ff595959">#ff595959</color>
+    <color name="ff609f24">#ff609f24</color>
+    <color name="ff6868">#ff6868</color>
+    <color name="ffb0cf92">#ffb0cf92</color>
+    <color name="b4edbc">#b4edbc</color>
+    <color name="ffD0D0D0">#ffD0D0D0</color>
+    <color name="ff2cb828">#ff2cb828</color>
+    <color name="f828282">#828282</color>
+    <color name="ff2c2c2c">#2c2c2c</color>
+    <color name="ff0afb02">#ff0afb02</color>
+    <color name="fafafa">#fafafa</color>
+    <color name="transparent_0afb02">#000afb02</color>
+    <color name="ffe0e0df">#ffe0e0df</color>
+    <color name="ffeeeeee">#ffeeeeee</color>
+    <color name="ff00b923">#ff00b923</color>
+    <color name="ffe5e5e5">#ffe5e5e5</color>
+    <color name="ff288dff">#ff288dff</color>
+    <color name="ff8d8d8d">#ff8d8d8d</color>
+    <color name="fff3f3f3">#fff3f3f3</color>
+    <color name="f3f3f3">#f3f3f3</color>
+    <color name="ff7c7c7c">#ff7c7c7c</color>
+    <color name="ff333333">#ff333333</color>
+    <color name="speed_50">#50f1343f</color>
+    <color name="ffa9a9a9">#ffa9a9a9</color>
+    <color name="white_06">#06ffffff</color>
+    <color name="ffff0404">#ffff0404</color>
+    <color name="ffbebdbc">#ffbebdbc</color>
+    <color name="ff979590">#ff979590</color>
+    <color name="ff01de2a">#ff01de2a</color>
+    <color name="ff3fb753">#ff3fb753</color>
+    <color name="ff6e6e6e">#ff6e6e6e</color>
+    <color name="ff36ad07">#ff36ad07</color>
+    <color name="ffd8d8d8">#ffd8d8d8</color>
+    <color name="fff1343f">#fff1343f</color>
+    <color name="ffd1d2d2">#ffd1d2d2</color>
+    <color name="ffd0d0d0">#ffd0d0d0</color>
+    <color name="ffcdcdcd">#ffcdcdcd</color>
+    <color name="ff52df87">#ff52df87</color>
+    <color name="ff525252">#ff525252</color>
+    <color name="ff04d151">#ff04d151</color>
+    <color name="ffaaadae">#ffaaadae</color>
+    <color name="ff36da74">#ff36da74</color>
+    <color name="fff9faf9">#fff9faf9</color>
+    <color name="ff6c6c6c">#ff6c6c6c</color>
+    <color name="ffa7abab">#ffa7abab</color>
+    <color name="ff585858">#ff585858</color>
+    <color name="ff999999">#ff999999</color>
+    <color name="fff65d12">#fff65d12</color>
+    <color name="ffcacaca">#ffcacaca</color>
+    <color name="ffdddddd">#ffdddddd</color>
+    <color name="ff212121">#ff212121</color>
+    <color name="color_5004f151">#5004f151</color>
+    <color name="color_50717269">#50717269</color>
+
+
+
+    <!-- 自定义Dialog的背景颜色 -->
+    <color name="dialog_bg">#ffe74c3c</color>
+    <!-- 自定义Dialog的字体的颜色 -->
+    <color name="text_color">#FFFFFF</color>
+    <!-- 自定义Dialog的标题同内容部分的分割线 -->
+    <color name="divider_color">#11000000</color>
+    <!-- 自定义Dialog信息部分文字的颜色 -->
+    <color name="msg_color">#FFFFFFFF</color>
+    <!-- 自定义Dialog中button点击时的颜色 -->
+    <color name="btn_press_color">#FFa5281b</color>
+    <!-- 自定义Dialog中button未点击时的颜色 -->
+    <color name="btn_unpress_color">#FFc0392b</color>
+    <!-- 黑色字体颜色 -->
+    <color name="textcolor_black">#000000</color>
+    <!-- 浅灰色字体颜色 -->
+    <color name="textcolor_light_grey">#807e7a</color>
+    <!-- 红色字体颜色 -->
+    <color name="textcolor_red">#e30000</color>
+    <!-- 红色字体颜色 -->
+    <color name="textcolor_green">#22ad38</color>
+    <!-- 非保险橘黄色字体颜色 -->
+    <color name="not_surance_yellow">#ffbb38</color>
+    <!-- 保险蓝色字体颜色 -->
+    <color name="surance_blue">#3598da</color>
+    <!-- 浅蓝色字体颜色 -->
+    <color name="light_blue">#E5F2FD</color>
+    <!-- 默认背景颜色，灰白 -->
+    <color name="base_bg">#FBFBFB</color>
+    <!-- 首页上方边框的颜色，深灰 -->
+    <color name="home_border_dark_gray">#E1E1E1</color>
+    <!-- 首页上方三个环形进度条布局的背景颜色，浅灰 -->
+    <color name="home_bg_light_gray">#F5F5F5</color>
+    <!-- 首页上方三个环形进度条文字的颜色，浅黑 -->
+    <color name="home_text_light_black">#333333</color>
+    <!-- 首页上方左侧个人信息代用名文字的颜色，略深黑 -->
+    <color name="home_text_little_dark_black">#323232</color>
+    <!-- 首页上方环形进度条的颜色，蓝色 -->
+    <color name="home_round_progress_bar_blue">#ff3896F3</color>
+    <!-- 首页上方环形进度条的默认颜色，灰色 -->
+    <color name="home_round_progress_bar_default_gray">#D1D1D1</color>
+    <color name="dialog_pressed_bg_color">#919191</color>
+    <!-- dialog条目默认的显示的背景 -->
+    <color name="dialog_unpressed_bg_color">#FFFFFF</color>
+    <!-- dialog背景半透明 -->
+    <color name="black_more_half">#55111111</color>
+    <!-- dialog的ok按钮未选择的颜色 -->
+    <color name="tip_dialog_ok_btn_ina_color">#a39b93</color>
+    <!-- dialog的ok按钮选择的颜色 -->
+    <color name="tip_dialog_ok_btn_a_color">#f5f5f5</color>
+    <!-- layoutRipple 的波纹色 淡蓝色 -->
+    <color name="layoutRipple_color">#1E88E5</color>
+    <!-- layoutRipple 的波纹色 淡蓝色 -->
+    <color name="left_item_color">#0000ee</color>
+    <color name="corner_border_color">#F3F4F3</color>
+    <color name="ff363636">#ff363636</color>
+
+    <!--覆盖颜色-->
+    <color name="bgColor_overlay">#60000000</color>
+    <color name="bgColor_overlay_black">#95000000</color>
+    <!--窗口背景颜色-->
+    <color name="bgColor_svprogressdefaultview">@android:color/white</color>
+    <!--标题颜色-->
+    <color name="textColor_svprogresshuddefault_msg">#000000</color>
+    <color name="roundColor_svprogresshuddefault">#e5e5e5</color>
+    <color name="roundProgressColor_svprogresshuddefault">@android:color/black</color>
+
+</resources>
