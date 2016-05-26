@@ -2,11 +2,11 @@ package com.test;
 
 import android.content.Context;
 import android.os.Build;
+import android.os.Bundle;
 import android.os.Handler;
 import android.os.Message;
 import android.support.v4.widget.SwipeRefreshLayout;
 import android.support.v7.app.AppCompatActivity;
-import android.os.Bundle;
 import android.telephony.TelephonyManager;
 import android.view.View;
 import android.widget.TextView;
@@ -14,8 +14,6 @@ import android.widget.Toast;
 
 import org.json.JSONException;
 import org.json.JSONObject;
-
-import java.util.concurrent.ConcurrentHashMap;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -32,8 +30,6 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        ConcurrentHashMap map = new ConcurrentHashMap();
-
         TextView t = (TextView) findViewById(R.id.hello);
         t.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -49,14 +45,14 @@ public class MainActivity extends AppCompatActivity {
         refreshLayout.setOnRefreshListener(new SwipeRefreshLayout.OnRefreshListener() {
             @Override
             public void onRefresh() {
-//                loading.setVisibility(View.VISIBLE);
-//                handler.postDelayed(new Runnable() {
-//                    @Override
-//                    public void run() {
-//                        refreshLayout.setRefreshing(false);
-//                        loading.setVisibility(View.GONE);
-//                    }
-//                },3000);
+                loading.setVisibility(View.VISIBLE);
+                handler.postDelayed(new Runnable() {
+                    @Override
+                    public void run() {
+                        refreshLayout.setRefreshing(false);
+                        loading.setVisibility(View.GONE);
+                    }
+                },3000);
             }
         });
     }

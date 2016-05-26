@@ -24,8 +24,8 @@ dependencies {
     testCompile 'junit:junit:4.12'
     compile 'com.android.support:appcompat-v7:22.2.1'
     compile 'com.github.pedrovgs:lynx:1.6'
-    compile 'com.github.bumptech.glide:glide:3.7.0'
     compile 'cn.finalteam:okhttpfinal:1.0.7'
+    compile 'com.facebook.fresco:fresco:0.9.0+'
 //    #带下载管理
     compile 'cn.finalteam:okhttpfinal-dm:1.0.7'
 }
